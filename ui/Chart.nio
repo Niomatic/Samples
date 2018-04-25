@@ -1,0 +1,503 @@
+{
+  "modules": [
+    {
+      "name": "Module.UI.Joystick",
+      "R": "NON",
+      "UID": 2,
+      "version": 1.0,
+      "X": 428.0,
+      "Y": 438.0,
+      "param": {
+        "idx": 2,
+        "r": {
+          "value": 0.0
+        },
+        "fid": 0,
+        "sid": 1,
+        "id": 42,
+        "baselineToBaseline": -1,
+        "bottomMargin": 0,
+        "bottomToBottom": -1,
+        "bottomToTop": -1,
+        "constrainedHeight": false,
+        "constrainedWidth": false,
+        "x": 381,
+        "y": 791,
+        "endToEnd": -1,
+        "endToStart": -1,
+        "goneBottomMargin": -1,
+        "goneEndMargin": -1,
+        "goneLeftMargin": -1,
+        "goneRightMargin": -1,
+        "goneStartMargin": -1,
+        "goneTopMargin": -1,
+        "gravity": 0,
+        "guideBegin": -1,
+        "guideEnd": -1,
+        "guidePercent": -1.0,
+        "h": 499,
+        "helped": false,
+        "horizontalBias": 0.5,
+        "horizontalChainStyle": 0,
+        "horizontalWeight": 0.0,
+        "leftMargin": 0,
+        "leftToLeft": -1,
+        "leftToRight": -1,
+        "matchConstraintDefaultHeight": 0,
+        "matchConstraintDefaultWidth": 0,
+        "matchConstraintMaxHeight": 0,
+        "matchConstraintMaxWidth": 0,
+        "matchConstraintMinHeight": 0,
+        "matchConstraintMinWidth": 0,
+        "matchConstraintPercentHeight": 1.0,
+        "matchConstraintPercentWidth": 1.0,
+        "orientation": -1,
+        "rightMargin": 0,
+        "rightToLeft": -1,
+        "rightToRight": -1,
+        "startToEnd": -1,
+        "startToStart": -1,
+        "topMargin": 0,
+        "topToBottom": -1,
+        "topToTop": -1,
+        "verticalBias": 0.5,
+        "verticalChainStyle": 0,
+        "verticalWeight": 0.0,
+        "weight": 0.0,
+        "w": 468
+      },
+      "mpo": {
+        "mod": false,
+        "pointer-color": -15108398,
+        "dms": 40,
+        "bg-color": -14606047,
+        "mds": 200
+      },
+      "vis": {
+        "bg-color": 0,
+        "corner": 0,
+        "elevation": 0,
+        "lock": false,
+        "printable": true,
+        "padding-bottom": 0,
+        "padding-left": 0,
+        "padding-right": 0,
+        "padding-top": 0
+      }
+    },
+    {
+      "name": "Module.FrontPanel.Frame.Properties",
+      "R": "NON",
+      "UID": 0,
+      "version": 1.0,
+      "X": 200.0,
+      "Y": 200.0,
+      "param": {
+        "idx": 0,
+        "r": {
+          "value": 0.0
+        },
+        "fid": -3,
+        "sid": -2,
+        "id": -1,
+        "baselineToBaseline": -1,
+        "bottomMargin": 0,
+        "bottomToBottom": -1,
+        "bottomToTop": -1,
+        "constrainedHeight": false,
+        "constrainedWidth": false,
+        "x": -1,
+        "y": -1,
+        "endToEnd": -1,
+        "endToStart": -1,
+        "goneBottomMargin": -1,
+        "goneEndMargin": -1,
+        "goneLeftMargin": -1,
+        "goneRightMargin": -1,
+        "goneStartMargin": -1,
+        "goneTopMargin": -1,
+        "gravity": 0,
+        "guideBegin": -1,
+        "guideEnd": -1,
+        "guidePercent": -1.0,
+        "h": 200,
+        "helped": false,
+        "horizontalBias": 0.5,
+        "horizontalChainStyle": 0,
+        "horizontalWeight": 0.0,
+        "leftMargin": 0,
+        "leftToLeft": -1,
+        "leftToRight": -1,
+        "matchConstraintDefaultHeight": 0,
+        "matchConstraintDefaultWidth": 0,
+        "matchConstraintMaxHeight": 0,
+        "matchConstraintMaxWidth": 0,
+        "matchConstraintMinHeight": 0,
+        "matchConstraintMinWidth": 0,
+        "matchConstraintPercentHeight": 1.0,
+        "matchConstraintPercentWidth": 1.0,
+        "orientation": -1,
+        "rightMargin": 0,
+        "rightToLeft": -1,
+        "rightToRight": -1,
+        "startToEnd": -1,
+        "startToStart": -1,
+        "topMargin": 0,
+        "topToBottom": -1,
+        "topToTop": -1,
+        "verticalBias": 0.5,
+        "verticalChainStyle": 0,
+        "verticalWeight": 0.0,
+        "weight": 0.0,
+        "w": 200
+      },
+      "mpo": {
+        "frame-id": 0
+      }
+    },
+    {
+      "name": "Module.Chart.LineTime",
+      "R": "NON",
+      "UID": 1,
+      "version": 1.0,
+      "X": 681.0,
+      "Y": 464.0,
+      "param": {
+        "idx": 1,
+        "r": {
+          "value": 0.0
+        },
+        "fid": 0,
+        "sid": 1,
+        "id": 31,
+        "baselineToBaseline": -1,
+        "bottomMargin": 0,
+        "bottomToBottom": -1,
+        "bottomToTop": -1,
+        "constrainedHeight": false,
+        "constrainedWidth": false,
+        "x": 71,
+        "y": 84,
+        "endToEnd": -1,
+        "endToStart": -1,
+        "goneBottomMargin": -1,
+        "goneEndMargin": -1,
+        "goneLeftMargin": -1,
+        "goneRightMargin": -1,
+        "goneStartMargin": -1,
+        "goneTopMargin": -1,
+        "gravity": 0,
+        "guideBegin": -1,
+        "guideEnd": -1,
+        "guidePercent": -1.0,
+        "h": 596,
+        "helped": false,
+        "horizontalBias": 0.5,
+        "horizontalChainStyle": 0,
+        "horizontalWeight": 0.0,
+        "leftMargin": 0,
+        "leftToLeft": -1,
+        "leftToRight": -1,
+        "matchConstraintDefaultHeight": 0,
+        "matchConstraintDefaultWidth": 0,
+        "matchConstraintMaxHeight": 0,
+        "matchConstraintMaxWidth": 0,
+        "matchConstraintMinHeight": 0,
+        "matchConstraintMinWidth": 0,
+        "matchConstraintPercentHeight": 1.0,
+        "matchConstraintPercentWidth": 1.0,
+        "orientation": -1,
+        "rightMargin": 0,
+        "rightToLeft": -1,
+        "rightToRight": -1,
+        "startToEnd": -1,
+        "startToStart": -1,
+        "topMargin": 0,
+        "topToBottom": -1,
+        "topToTop": -1,
+        "verticalBias": 0.5,
+        "verticalChainStyle": 0,
+        "verticalWeight": 0.0,
+        "weight": 0.0,
+        "w": 1051
+      },
+      "mpo": {
+        "description": "",
+        "border-color": -12303292,
+        "fill": true,
+        "tools": true,
+        "lms": [],
+        "max-count": 100,
+        "no-data": "You need to provide data for the chart.",
+        "sachem": [
+          {
+            "Name": "name",
+            "colorFill": -5636096,
+            "colorLine": -5636096,
+            "effect": [
+              1.0
+            ],
+            "isArray": false,
+            "width": 2
+          },
+          {
+            "Name": "name",
+            "colorFill": -16743537,
+            "colorLine": -16743537,
+            "effect": [
+              1.0
+            ],
+            "isArray": false,
+            "width": 2
+          }
+        ],
+        "umode": "CUBIC_BEZIER",
+        "text-color": -12303292,
+        "circle": true,
+        "grid-color": 1430537284
+      },
+      "vis": {
+        "bg-color": 0,
+        "corner": 0,
+        "elevation": 0,
+        "lock": false,
+        "printable": true,
+        "padding-bottom": 0,
+        "padding-left": 0,
+        "padding-right": 0,
+        "padding-top": 0
+      }
+    }
+  ],
+  "paths": [
+    [
+      {
+        "cid": 1124,
+        "Label": "Trigger in",
+        "uuid": 2,
+        "x": 428,
+        "y": 438,
+        "position": {
+          "order": 4,
+          "count": 4,
+          "pos": "RIGHT",
+          "teta": 5.890486225480862,
+          "x": 111,
+          "y": 155
+        },
+        "model": "SINGLE",
+        "dir": "Output",
+        "type": "TRIGGER"
+      },
+      [
+        {
+          "cid": 100,
+          "Label": "TRIGGER_IN",
+          "uuid": 1,
+          "x": 681,
+          "y": 464,
+          "position": {
+            "order": 3,
+            "count": 3,
+            "pos": "LEFT",
+            "teta": 2.617993877991494,
+            "x": 41,
+            "y": 156
+          },
+          "model": "SINGLE",
+          "dir": "Input",
+          "type": "TRIGGER"
+        }
+      ]
+    ],
+    [
+      {
+        "cid": 1025,
+        "Label": "Distance",
+        "uuid": 2,
+        "x": 428,
+        "y": 438,
+        "position": {
+          "order": 1,
+          "count": 4,
+          "pos": "RIGHT",
+          "teta": 3.5342917352885173,
+          "x": 111,
+          "y": 6
+        },
+        "model": "SINGLE",
+        "dir": "Output",
+        "type": "NUMBER"
+      },
+      [
+        {
+          "cid": 2,
+          "Label": "name",
+          "uuid": 1,
+          "x": 681,
+          "y": 464,
+          "position": {
+            "order": 1,
+            "count": 3,
+            "pos": "LEFT",
+            "teta": 0.5235987755982988,
+            "x": 42,
+            "y": 11
+          },
+          "model": "SINGLE",
+          "dir": "Input",
+          "type": "NUMBER"
+        }
+      ]
+    ],
+    [
+      {
+        "cid": 1026,
+        "Label": "Angle",
+        "uuid": 2,
+        "x": 428,
+        "y": 438,
+        "position": {
+          "order": 2,
+          "count": 4,
+          "pos": "RIGHT",
+          "teta": 4.319689898685965,
+          "x": 155,
+          "y": 50
+        },
+        "model": "SINGLE",
+        "dir": "Output",
+        "type": "NUMBER"
+      },
+      [
+        {
+          "cid": 3,
+          "Label": "name",
+          "uuid": 1,
+          "x": 681,
+          "y": 464,
+          "position": {
+            "order": 2,
+            "count": 3,
+            "pos": "LEFT",
+            "teta": 1.5707963267948966,
+            "x": 0,
+            "y": 84
+          },
+          "model": "SINGLE",
+          "dir": "Input",
+          "type": "NUMBER"
+        }
+      ]
+    ]
+  ],
+  "core": {
+    "core-version": 1,
+    "core-version-name": "1.0"
+  },
+  "meta": {
+    "Encrypt": false,
+    "PID": "PID",
+    "sheet-height": 0,
+    "sheet-width": 0,
+    "Title": "",
+    "VER": 1.0,
+    "VID": "NIO",
+    "ZIP": false,
+    "sheet-type": "mother-layout"
+  },
+  "page": {
+    "barriers": [],
+    "frames_properties": [
+      {
+        "color": -16121,
+        "id": 0,
+        "link-frame-id": -1,
+        "link-section-id": -1,
+        "name": "Name",
+        "run-mode": 0,
+        "blueprint": {
+          "bottom": 2278,
+          "left": 1830,
+          "right": 3030,
+          "top": 678
+        },
+        "position": {
+          "bottom": 2278,
+          "left": 598,
+          "right": 1798,
+          "top": 678
+        },
+        "sections": [
+          {
+            "id": 1,
+            "show-type": 0,
+            "view_id": 2131297249,
+            "param": {
+              "fid": -3,
+              "sid": -2,
+              "id": -1,
+              "baselineToBaseline": -1,
+              "bottomMargin": 0,
+              "bottomToBottom": 0,
+              "bottomToTop": -1,
+              "constrainedHeight": false,
+              "constrainedWidth": false,
+              "x": -1,
+              "y": -1,
+              "endToEnd": 0,
+              "endToStart": -1,
+              "goneBottomMargin": -1,
+              "goneEndMargin": -1,
+              "goneLeftMargin": -1,
+              "goneRightMargin": -1,
+              "goneStartMargin": -1,
+              "goneTopMargin": -1,
+              "gravity": 0,
+              "guideBegin": -1,
+              "guideEnd": -1,
+              "guidePercent": -1.0,
+              "h": 0,
+              "helped": false,
+              "horizontalBias": 0.5,
+              "horizontalChainStyle": 0,
+              "horizontalWeight": 0.0,
+              "leftMargin": 0,
+              "leftToLeft": -1,
+              "leftToRight": -1,
+              "matchConstraintDefaultHeight": 0,
+              "matchConstraintDefaultWidth": 0,
+              "matchConstraintMaxHeight": 0,
+              "matchConstraintMaxWidth": 0,
+              "matchConstraintMinHeight": 0,
+              "matchConstraintMinWidth": 0,
+              "matchConstraintPercentHeight": 1.0,
+              "matchConstraintPercentWidth": 1.0,
+              "orientation": -1,
+              "rightMargin": 0,
+              "rightToLeft": -1,
+              "rightToRight": -1,
+              "startToEnd": -1,
+              "startToStart": 0,
+              "topMargin": 0,
+              "topToBottom": -1,
+              "topToTop": 0,
+              "verticalBias": 0.5,
+              "verticalChainStyle": 0,
+              "verticalWeight": 0.0,
+              "weight": 0.0,
+              "w": 0
+            },
+            "type": 1
+          }
+        ],
+        "type": 2
+      }
+    ],
+    "guidelines": [],
+    "mother_properties": {
+      "height": 2978,
+      "width": 3730
+    }
+  }
+}

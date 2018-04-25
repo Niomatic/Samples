@@ -1,0 +1,2318 @@
+{
+  "modules": [
+    {
+      "name": "Module.UI.ProgressBar.Circle",
+      "R": "NON",
+      "X": 1574.0,
+      "Y": 929.0,
+      "param": {
+        "r": {
+          "value": 0.0
+        },
+        "idx": 4,
+        "fid": 0,
+        "sid": 1,
+        "id": 401,
+        "baselineToBaseline": -1,
+        "bottomMargin": 0,
+        "bottomToBottom": -1,
+        "bottomToTop": -1,
+        "constrainedHeight": false,
+        "constrainedWidth": false,
+        "x": 75,
+        "y": 88,
+        "endToEnd": -1,
+        "endToStart": -1,
+        "goneBottomMargin": -1,
+        "goneEndMargin": -1,
+        "goneLeftMargin": -1,
+        "goneRightMargin": -1,
+        "goneStartMargin": -1,
+        "goneTopMargin": -1,
+        "gravity": 0,
+        "guideBegin": -1,
+        "guideEnd": -1,
+        "guidePercent": -1.0,
+        "h": 327,
+        "helped": false,
+        "horizontalBias": 0.5,
+        "horizontalChainStyle": 0,
+        "horizontalWeight": 0.0,
+        "leftMargin": 0,
+        "leftToLeft": -1,
+        "leftToRight": -1,
+        "matchConstraintDefaultHeight": 0,
+        "matchConstraintDefaultWidth": 0,
+        "matchConstraintMaxHeight": 0,
+        "matchConstraintMaxWidth": 0,
+        "matchConstraintMinHeight": 0,
+        "matchConstraintMinWidth": 0,
+        "matchConstraintPercentHeight": 1.0,
+        "matchConstraintPercentWidth": 1.0,
+        "orientation": -1,
+        "rightMargin": 0,
+        "rightToLeft": -1,
+        "rightToRight": -1,
+        "startToEnd": -1,
+        "startToStart": -1,
+        "topMargin": 0,
+        "topToBottom": -1,
+        "topToTop": -1,
+        "verticalBias": 0.5,
+        "verticalChainStyle": 0,
+        "verticalWeight": 0.0,
+        "weight": 0.0,
+        "w": 324
+      },
+      "mpo": {
+        "Def-Description": "Description",
+        "Dash-Space": 28,
+        "Dashed": false,
+        "Indicator-Enable": false,
+        "Def-Title": "Title",
+        "Max-Value": {
+          "value": "100.0"
+        },
+        "Thickness": 24,
+        "Indicator-Step": 10,
+        "Indicator-Text-Color": -12303292,
+        "Dash-Size": 14,
+        "Indicator-Line-Color": -12303292,
+        "Def-Value": {
+          "value": "0.0"
+        },
+        "Indicator-Length": 10,
+        "fill-color": [
+          {
+            "color": -12215384
+          },
+          {
+            "color": -8797593
+          },
+          {
+            "color": -3811769
+          },
+          {
+            "color": -666051
+          },
+          {
+            "color": -881613
+          },
+          {
+            "color": -1546078
+          },
+          {
+            "color": -4234586
+          }
+        ],
+        "Indicator-MicroLine-Color": 1441722094
+      },
+      "vis": {
+        "lock": false,
+        "printable": true,
+        "bg-color": 0,
+        "corner": 0,
+        "elevation": 0,
+        "padding-bottom": 0,
+        "padding-left": 0,
+        "padding-right": 0,
+        "padding-top": 0
+      },
+      "UID": 1,
+      "version": 1.0
+    },
+    {
+      "name": "Module.UI.ProgressBar.Circle",
+      "R": "NON",
+      "X": 1590.0,
+      "Y": 1160.0,
+      "param": {
+        "r": {
+          "value": 0.0
+        },
+        "idx": 6,
+        "fid": 0,
+        "sid": 1,
+        "id": 551,
+        "baselineToBaseline": -1,
+        "bottomMargin": 0,
+        "bottomToBottom": -1,
+        "bottomToTop": -1,
+        "constrainedHeight": false,
+        "constrainedWidth": false,
+        "x": 803,
+        "y": 89,
+        "endToEnd": -1,
+        "endToStart": -1,
+        "goneBottomMargin": -1,
+        "goneEndMargin": -1,
+        "goneLeftMargin": -1,
+        "goneRightMargin": -1,
+        "goneStartMargin": -1,
+        "goneTopMargin": -1,
+        "gravity": 0,
+        "guideBegin": -1,
+        "guideEnd": -1,
+        "guidePercent": -1.0,
+        "h": 295,
+        "helped": false,
+        "horizontalBias": 0.5,
+        "horizontalChainStyle": 0,
+        "horizontalWeight": 0.0,
+        "leftMargin": 0,
+        "leftToLeft": -1,
+        "leftToRight": -1,
+        "matchConstraintDefaultHeight": 0,
+        "matchConstraintDefaultWidth": 0,
+        "matchConstraintMaxHeight": 0,
+        "matchConstraintMaxWidth": 0,
+        "matchConstraintMinHeight": 0,
+        "matchConstraintMinWidth": 0,
+        "matchConstraintPercentHeight": 1.0,
+        "matchConstraintPercentWidth": 1.0,
+        "orientation": -1,
+        "rightMargin": 0,
+        "rightToLeft": -1,
+        "rightToRight": -1,
+        "startToEnd": -1,
+        "startToStart": -1,
+        "topMargin": 0,
+        "topToBottom": -1,
+        "topToTop": -1,
+        "verticalBias": 0.5,
+        "verticalChainStyle": 0,
+        "verticalWeight": 0.0,
+        "weight": 0.0,
+        "w": 300
+      },
+      "mpo": {
+        "Def-Description": "Description",
+        "Dash-Space": 28,
+        "Dashed": false,
+        "Indicator-Enable": false,
+        "Def-Title": "Title",
+        "Max-Value": {
+          "value": "100.0"
+        },
+        "Thickness": 24,
+        "Indicator-Step": 10,
+        "Indicator-Text-Color": -12303292,
+        "Dash-Size": 14,
+        "Indicator-Line-Color": -12303292,
+        "Def-Value": {
+          "value": "0.0"
+        },
+        "Indicator-Length": 10,
+        "fill-color": [
+          {
+            "color": -12215384
+          },
+          {
+            "color": -8797593
+          },
+          {
+            "color": -3811769
+          },
+          {
+            "color": -666051
+          },
+          {
+            "color": -881613
+          },
+          {
+            "color": -1546078
+          },
+          {
+            "color": -4234586
+          }
+        ],
+        "Indicator-MicroLine-Color": 1441722094
+      },
+      "vis": {
+        "lock": false,
+        "printable": true,
+        "bg-color": 0,
+        "corner": 0,
+        "elevation": 0,
+        "padding-bottom": 0,
+        "padding-left": 0,
+        "padding-right": 0,
+        "padding-top": 0
+      },
+      "UID": 8,
+      "version": 1.0
+    },
+    {
+      "name": "Module.Math.Sum",
+      "R": "NON",
+      "X": 857.0,
+      "Y": 528.0,
+      "UID": 15,
+      "version": 1.0
+    },
+    {
+      "name": "Module.Math.Function.Random",
+      "R": "NON",
+      "X": 450.0,
+      "Y": 478.0,
+      "mpo": {
+        "max": 1
+      },
+      "UID": 10,
+      "version": 1.0
+    },
+    {
+      "name": "Module.Math.Sum",
+      "R": "NON",
+      "X": 932.0,
+      "Y": 906.0,
+      "UID": 11,
+      "version": 1.0
+    },
+    {
+      "name": "Module.Constant.Number",
+      "R": "NON",
+      "X": 617.0,
+      "Y": 864.0,
+      "mpo": {
+        "value": {
+          "value": "20.0"
+        }
+      },
+      "UID": 17,
+      "version": 1.0
+    },
+    {
+      "name": "Module.Constant.Number",
+      "R": "NON",
+      "X": 642.0,
+      "Y": 570.0,
+      "mpo": {
+        "value": {
+          "value": "10.0"
+        }
+      },
+      "UID": 13,
+      "version": 1.0
+    },
+    {
+      "name": "Module.Math.Function.Random",
+      "R": "NON",
+      "X": 624.0,
+      "Y": 950.0,
+      "mpo": {
+        "max": 1
+      },
+      "UID": 12,
+      "version": 1.0
+    },
+    {
+      "name": "Module.Trigger.Oscillator",
+      "R": "NON",
+      "X": 170.0,
+      "Y": 644.0,
+      "mpo": {
+        "interval": 1000
+      },
+      "UID": 18,
+      "version": 1.0
+    },
+    {
+      "name": "Module.Constant.String",
+      "R": "NON",
+      "X": 1270.0,
+      "Y": 993.0,
+      "mpo": {
+        "value": "temperature"
+      },
+      "UID": 5,
+      "version": 1.0
+    },
+    {
+      "name": "Module.Constant.String",
+      "R": "NON",
+      "X": 1288.0,
+      "Y": 954.0,
+      "mpo": {
+        "value": "zone2"
+      },
+      "UID": 4,
+      "version": 1.0
+    },
+    {
+      "name": "Module.Constant.String",
+      "R": "NON",
+      "X": 1287.0,
+      "Y": 727.0,
+      "mpo": {
+        "value": "Temperature"
+      },
+      "UID": 7,
+      "version": 1.0
+    },
+    {
+      "name": "Module.Constant.String",
+      "R": "NON",
+      "X": 1281.0,
+      "Y": 669.0,
+      "mpo": {
+        "value": "zone1"
+      },
+      "UID": 3,
+      "version": 1.0
+    },
+    {
+      "name": "Module.Math.Sum",
+      "R": "NON",
+      "X": 973.0,
+      "Y": 1167.0,
+      "UID": 19,
+      "version": 1.0
+    },
+    {
+      "name": "Module.Constant.String",
+      "R": "NON",
+      "X": 1304.0,
+      "Y": 1239.0,
+      "mpo": {
+        "value": "temperature"
+      },
+      "UID": 6,
+      "version": 1.0
+    },
+    {
+      "name": "Module.Constant.String",
+      "R": "NON",
+      "X": 1318.0,
+      "Y": 1201.0,
+      "mpo": {
+        "value": "zone3"
+      },
+      "UID": 9,
+      "version": 1.0
+    },
+    {
+      "name": "Module.Math.Function.Random",
+      "R": "NON",
+      "X": 640.0,
+      "Y": 1264.0,
+      "mpo": {
+        "max": 1
+      },
+      "UID": 14,
+      "version": 1.0
+    },
+    {
+      "name": "Module.Constant.Number",
+      "R": "NON",
+      "X": 644.0,
+      "Y": 1124.0,
+      "mpo": {
+        "value": {
+          "value": "8.0"
+        }
+      },
+      "UID": 20,
+      "version": 1.0
+    },
+    {
+      "name": "Module.UI.ProgressBar.Circle",
+      "R": "NON",
+      "X": 1551.0,
+      "Y": 685.0,
+      "param": {
+        "r": {
+          "value": 0.0
+        },
+        "idx": 5,
+        "fid": 0,
+        "sid": 1,
+        "id": 458,
+        "baselineToBaseline": -1,
+        "bottomMargin": 0,
+        "bottomToBottom": -1,
+        "bottomToTop": -1,
+        "constrainedHeight": false,
+        "constrainedWidth": false,
+        "x": 452,
+        "y": 89,
+        "endToEnd": -1,
+        "endToStart": -1,
+        "goneBottomMargin": -1,
+        "goneEndMargin": -1,
+        "goneLeftMargin": -1,
+        "goneRightMargin": -1,
+        "goneStartMargin": -1,
+        "goneTopMargin": -1,
+        "gravity": 0,
+        "guideBegin": -1,
+        "guideEnd": -1,
+        "guidePercent": -1.0,
+        "h": 303,
+        "helped": false,
+        "horizontalBias": 0.5,
+        "horizontalChainStyle": 0,
+        "horizontalWeight": 0.0,
+        "leftMargin": 0,
+        "leftToLeft": -1,
+        "leftToRight": -1,
+        "matchConstraintDefaultHeight": 0,
+        "matchConstraintDefaultWidth": 0,
+        "matchConstraintMaxHeight": 0,
+        "matchConstraintMaxWidth": 0,
+        "matchConstraintMinHeight": 0,
+        "matchConstraintMinWidth": 0,
+        "matchConstraintPercentHeight": 1.0,
+        "matchConstraintPercentWidth": 1.0,
+        "orientation": -1,
+        "rightMargin": 0,
+        "rightToLeft": -1,
+        "rightToRight": -1,
+        "startToEnd": -1,
+        "startToStart": -1,
+        "topMargin": 0,
+        "topToBottom": -1,
+        "topToTop": -1,
+        "verticalBias": 0.5,
+        "verticalChainStyle": 0,
+        "verticalWeight": 0.0,
+        "weight": 0.0,
+        "w": 315
+      },
+      "mpo": {
+        "Def-Description": "c",
+        "Dash-Space": 28,
+        "Dashed": false,
+        "Indicator-Enable": false,
+        "Def-Title": "Title",
+        "Max-Value": {
+          "value": "50.0"
+        },
+        "Thickness": 24,
+        "Indicator-Step": 10,
+        "Indicator-Text-Color": -12303292,
+        "Dash-Size": 14,
+        "Indicator-Line-Color": -12303292,
+        "Def-Value": {
+          "value": "0.0"
+        },
+        "Indicator-Length": 10,
+        "fill-color": [
+          {
+            "color": -12215384
+          },
+          {
+            "color": -8797593
+          },
+          {
+            "color": -3811769
+          },
+          {
+            "color": -666051
+          },
+          {
+            "color": -881613
+          },
+          {
+            "color": -1546078
+          },
+          {
+            "color": -4234586
+          }
+        ],
+        "Indicator-MicroLine-Color": 1441722094
+      },
+      "vis": {
+        "lock": false,
+        "printable": true,
+        "bg-color": 0,
+        "corner": 0,
+        "elevation": 0,
+        "padding-bottom": 0,
+        "padding-left": 0,
+        "padding-right": 0,
+        "padding-top": 0
+      },
+      "UID": 2,
+      "version": 1.0
+    },
+    {
+      "name": "Module.UI.Gage",
+      "R": "NON",
+      "X": 1127.0,
+      "Y": 1524.0,
+      "param": {
+        "r": {
+          "value": 0.0
+        },
+        "idx": 7,
+        "fid": 0,
+        "sid": 1,
+        "id": 831,
+        "baselineToBaseline": -1,
+        "bottomMargin": 0,
+        "bottomToBottom": -1,
+        "bottomToTop": 844,
+        "constrainedHeight": false,
+        "constrainedWidth": false,
+        "x": 289,
+        "y": 516,
+        "endToEnd": -1,
+        "endToStart": -1,
+        "goneBottomMargin": -1,
+        "goneEndMargin": -1,
+        "goneLeftMargin": -1,
+        "goneRightMargin": -1,
+        "goneStartMargin": -1,
+        "goneTopMargin": -1,
+        "gravity": 0,
+        "guideBegin": -1,
+        "guideEnd": -1,
+        "guidePercent": -1.0,
+        "h": 728,
+        "helped": false,
+        "horizontalBias": 0.5,
+        "horizontalChainStyle": 0,
+        "horizontalWeight": 0.0,
+        "leftMargin": 0,
+        "leftToLeft": -1,
+        "leftToRight": -1,
+        "matchConstraintDefaultHeight": 0,
+        "matchConstraintDefaultWidth": 0,
+        "matchConstraintMaxHeight": 0,
+        "matchConstraintMaxWidth": 0,
+        "matchConstraintMinHeight": 0,
+        "matchConstraintMinWidth": 0,
+        "matchConstraintPercentHeight": 1.0,
+        "matchConstraintPercentWidth": 1.0,
+        "orientation": -1,
+        "rightMargin": 0,
+        "rightToLeft": -1,
+        "rightToRight": -1,
+        "startToEnd": -1,
+        "startToStart": -1,
+        "topMargin": 0,
+        "topToBottom": -1,
+        "topToTop": -1,
+        "verticalBias": 0.5,
+        "verticalChainStyle": 0,
+        "verticalWeight": 0.0,
+        "weight": 0.0,
+        "w": 633
+      },
+      "mpo": {
+        "DV": {
+          "value": "0.0"
+        },
+        "BOC": -16777216,
+        "LC": -1,
+        "MT": 20,
+        "mT": 5,
+        "MV": {
+          "value": "100.0"
+        },
+        "BIC": -16777216,
+        "Ind": [],
+        "UT": "pascal",
+        "CB": -16752540,
+        "TC": -688361
+      },
+      "vis": {
+        "lock": false,
+        "printable": true,
+        "bg-color": 0,
+        "corner": 0,
+        "elevation": 0,
+        "padding-bottom": 0,
+        "padding-left": 0,
+        "padding-right": 0,
+        "padding-top": 0
+      },
+      "UID": 21,
+      "version": 1.0
+    },
+    {
+      "name": "Module.Math.Sum",
+      "R": "NON",
+      "X": 909.0,
+      "Y": 1503.0,
+      "UID": 25,
+      "version": 1.0
+    },
+    {
+      "name": "Module.Trigger.Oscillator",
+      "R": "NON",
+      "X": 303.0,
+      "Y": 1587.0,
+      "mpo": {
+        "interval": 1000
+      },
+      "UID": 23,
+      "version": 1.0
+    },
+    {
+      "name": "Module.Constant.Number",
+      "R": "NON",
+      "X": 663.0,
+      "Y": 1509.0,
+      "mpo": {
+        "value": {
+          "value": "40.0"
+        }
+      },
+      "UID": 26,
+      "version": 1.0
+    },
+    {
+      "name": "Module.Math.Function.Random",
+      "R": "NON",
+      "X": 641.0,
+      "Y": 1571.0,
+      "mpo": {
+        "max": 1
+      },
+      "UID": 24,
+      "version": 1.0
+    },
+    {
+      "name": "Module.UI.Map",
+      "R": "NON",
+      "X": 909.0,
+      "Y": 1906.0,
+      "param": {
+        "r": {
+          "value": 0.0
+        },
+        "idx": 8,
+        "fid": 0,
+        "sid": 1,
+        "id": 173,
+        "baselineToBaseline": -1,
+        "bottomMargin": 0,
+        "bottomToBottom": -1,
+        "bottomToTop": -1,
+        "constrainedHeight": false,
+        "constrainedWidth": false,
+        "x": 0,
+        "y": 909,
+        "endToEnd": -1,
+        "endToStart": -1,
+        "goneBottomMargin": -1,
+        "goneEndMargin": -1,
+        "goneLeftMargin": -1,
+        "goneRightMargin": -1,
+        "goneStartMargin": -1,
+        "goneTopMargin": -1,
+        "gravity": 0,
+        "guideBegin": -1,
+        "guideEnd": -1,
+        "guidePercent": -1.0,
+        "h": 693,
+        "helped": false,
+        "horizontalBias": 0.5,
+        "horizontalChainStyle": 0,
+        "horizontalWeight": 0.0,
+        "leftMargin": 0,
+        "leftToLeft": -1,
+        "leftToRight": -1,
+        "matchConstraintDefaultHeight": 0,
+        "matchConstraintDefaultWidth": 0,
+        "matchConstraintMaxHeight": 0,
+        "matchConstraintMaxWidth": 0,
+        "matchConstraintMinHeight": 0,
+        "matchConstraintMinWidth": 0,
+        "matchConstraintPercentHeight": 1.0,
+        "matchConstraintPercentWidth": 1.0,
+        "orientation": -1,
+        "rightMargin": 0,
+        "rightToLeft": -1,
+        "rightToRight": -1,
+        "startToEnd": -1,
+        "startToStart": -1,
+        "topMargin": 0,
+        "topToBottom": -1,
+        "topToTop": -1,
+        "verticalBias": 0.5,
+        "verticalChainStyle": 0,
+        "verticalWeight": 0.0,
+        "weight": 0.0,
+        "w": 1212
+      },
+      "mpo": {
+        "move": true,
+        "style-id": 0,
+        "gps-location": false,
+        "traffic-enabled": false,
+        "latitude": {
+          "value": "35.7308748216969"
+        },
+        "map-type": "NORMAL",
+        "zoom": {
+          "value": "15.0"
+        },
+        "MapToolbarEnabled": false,
+        "longitude": {
+          "value": "51.38954825699329"
+        }
+      },
+      "vis": {
+        "lock": false,
+        "printable": true,
+        "bg-color": 0,
+        "corner": 0,
+        "elevation": 0,
+        "padding-bottom": 0,
+        "padding-left": 0,
+        "padding-right": 0,
+        "padding-top": 0
+      },
+      "UID": 16,
+      "version": 1.0
+    },
+    {
+      "name": "Module.Hardware.Sensor.Compass",
+      "R": "NON",
+      "X": 1130.0,
+      "Y": 2944.0,
+      "UID": 22,
+      "version": 1.0
+    },
+    {
+      "name": "Module.Hardware.Sensor.Gravity",
+      "R": "NON",
+      "X": 1934.0,
+      "Y": 3092.0,
+      "UID": 27,
+      "version": 1.0
+    },
+    {
+      "name": "Module.Hardware.Sensor.Pressure",
+      "R": "NON",
+      "X": 2427.0,
+      "Y": 3059.0,
+      "UID": 28,
+      "version": 1.0
+    },
+    {
+      "name": "Module.Hardware.Sensor.Humidity",
+      "R": "NON",
+      "X": 2706.0,
+      "Y": 3073.0,
+      "UID": 29,
+      "version": 1.0
+    },
+    {
+      "name": "Module.Hardware.Sensor.Light",
+      "R": "NON",
+      "X": 3061.0,
+      "Y": 3312.0,
+      "UID": 30,
+      "version": 1.0
+    },
+    {
+      "name": "Module.FrontPanel.Frame.Properties",
+      "R": "NON",
+      "X": 200.0,
+      "Y": 200.0,
+      "param": {
+        "r": {
+          "value": 0.0
+        },
+        "idx": 0,
+        "fid": -3,
+        "sid": -2,
+        "id": -1,
+        "baselineToBaseline": -1,
+        "bottomMargin": 0,
+        "bottomToBottom": -1,
+        "bottomToTop": -1,
+        "constrainedHeight": false,
+        "constrainedWidth": false,
+        "x": -1,
+        "y": -1,
+        "endToEnd": -1,
+        "endToStart": -1,
+        "goneBottomMargin": -1,
+        "goneEndMargin": -1,
+        "goneLeftMargin": -1,
+        "goneRightMargin": -1,
+        "goneStartMargin": -1,
+        "goneTopMargin": -1,
+        "gravity": 0,
+        "guideBegin": -1,
+        "guideEnd": -1,
+        "guidePercent": -1.0,
+        "h": 200,
+        "helped": false,
+        "horizontalBias": 0.5,
+        "horizontalChainStyle": 0,
+        "horizontalWeight": 0.0,
+        "leftMargin": 0,
+        "leftToLeft": -1,
+        "leftToRight": -1,
+        "matchConstraintDefaultHeight": 0,
+        "matchConstraintDefaultWidth": 0,
+        "matchConstraintMaxHeight": 0,
+        "matchConstraintMaxWidth": 0,
+        "matchConstraintMinHeight": 0,
+        "matchConstraintMinWidth": 0,
+        "matchConstraintPercentHeight": 1.0,
+        "matchConstraintPercentWidth": 1.0,
+        "orientation": -1,
+        "rightMargin": 0,
+        "rightToLeft": -1,
+        "rightToRight": -1,
+        "startToEnd": -1,
+        "startToStart": -1,
+        "topMargin": 0,
+        "topToBottom": -1,
+        "topToTop": -1,
+        "verticalBias": 0.5,
+        "verticalChainStyle": 0,
+        "verticalWeight": 0.0,
+        "weight": 0.0,
+        "w": 200
+      },
+      "mpo": {
+        "frame-id": 0
+      },
+      "UID": 0,
+      "version": 1.0
+    }
+  ],
+  "paths": [
+    [
+      {
+        "Label": "Value",
+        "position": {
+          "pos": "RIGHT",
+          "order": 1,
+          "teta": -1.5707963267948966,
+          "count": 0,
+          "x": 170,
+          "y": 0
+        },
+        "model": "SINGLE",
+        "dir": "Output",
+        "type": "STRING",
+        "cid": 1025,
+        "uuid": 5,
+        "x": 1270,
+        "y": 993
+      },
+      [
+        {
+          "Label": "PinName.Module.UI.ProgressBar.Circle.InputPin.ID.3",
+          "position": {
+            "pos": "LEFT",
+            "order": 3,
+            "teta": 1.9634954084936207,
+            "count": 4,
+            "x": 4,
+            "y": 84
+          },
+          "model": "SINGLE",
+          "dir": "Input",
+          "type": "STRING",
+          "cid": 3,
+          "uuid": 1,
+          "x": 1574,
+          "y": 929
+        }
+      ]
+    ],
+    [
+      {
+        "Label": "Value",
+        "position": {
+          "pos": "RIGHT",
+          "order": 1,
+          "teta": -1.5707963267948966,
+          "count": 0,
+          "x": 170,
+          "y": 0
+        },
+        "model": "SINGLE",
+        "dir": "Output",
+        "type": "NUMBER",
+        "cid": 1025,
+        "uuid": 26,
+        "x": 663,
+        "y": 1509
+      },
+      [
+        {
+          "Label": "In A",
+          "position": {
+            "pos": "LEFT",
+            "order": 1,
+            "teta": 0.5235987755982988,
+            "count": 3,
+            "x": 31,
+            "y": 8
+          },
+          "model": "SINGLE",
+          "dir": "Input",
+          "type": "NUMBER",
+          "cid": 1,
+          "uuid": 25,
+          "x": 909,
+          "y": 1503
+        }
+      ]
+    ],
+    [
+      {
+        "Label": "Trigger out",
+        "position": {
+          "pos": "RIGHT",
+          "order": 2,
+          "teta": 5.497787143782138,
+          "count": 2,
+          "x": 97,
+          "y": 97
+        },
+        "model": "SINGLE",
+        "dir": "Output",
+        "type": "TRIGGER",
+        "cid": 1224,
+        "uuid": 12,
+        "x": 624,
+        "y": 950
+      },
+      [
+        {
+          "Label": "Trigger in",
+          "position": {
+            "pos": "LEFT",
+            "order": 3,
+            "teta": 2.617993877991494,
+            "count": 3,
+            "x": 31,
+            "y": 117
+          },
+          "model": "SINGLE",
+          "dir": "Input",
+          "type": "TRIGGER",
+          "cid": 100,
+          "uuid": 11,
+          "x": 932,
+          "y": 906
+        }
+      ]
+    ],
+    [
+      {
+        "Label": "Output",
+        "position": {
+          "pos": "RIGHT",
+          "order": 1,
+          "teta": 3.9269908169872414,
+          "count": 2,
+          "x": 107,
+          "y": 18
+        },
+        "model": "SINGLE",
+        "dir": "Output",
+        "type": "NUMBER",
+        "cid": 1025,
+        "uuid": 15,
+        "x": 857,
+        "y": 528
+      },
+      [
+        {
+          "Label": "PinName.Module.UI.ProgressBar.Circle.InputPin.ID.1",
+          "position": {
+            "pos": "LEFT",
+            "order": 1,
+            "teta": 0.39269908169872414,
+            "count": 4,
+            "x": 37,
+            "y": 4
+          },
+          "model": "SINGLE",
+          "dir": "Input",
+          "type": "NUMBER",
+          "cid": 1,
+          "uuid": 2,
+          "x": 1551,
+          "y": 685
+        }
+      ]
+    ],
+    [
+      {
+        "Label": "Output",
+        "position": {
+          "pos": "RIGHT",
+          "order": 1,
+          "teta": 3.9269908169872414,
+          "count": 2,
+          "x": 107,
+          "y": 18
+        },
+        "model": "SINGLE",
+        "dir": "Output",
+        "type": "NUMBER",
+        "cid": 1025,
+        "uuid": 25,
+        "x": 909,
+        "y": 1503
+      },
+      [
+        {
+          "Label": "Value",
+          "position": {
+            "pos": "LEFT",
+            "order": 1,
+            "teta": 0.7853981633974483,
+            "count": 2,
+            "x": 16,
+            "y": 16
+          },
+          "model": "SINGLE",
+          "dir": "Input",
+          "type": "NUMBER",
+          "cid": 1,
+          "uuid": 21,
+          "x": 1127,
+          "y": 1524
+        }
+      ]
+    ],
+    [
+      {
+        "Label": "PinName.Module.Math.Function.Random.OutputPin.ID.1",
+        "position": {
+          "pos": "RIGHT",
+          "order": 1,
+          "teta": 3.9269908169872414,
+          "count": 2,
+          "x": 97,
+          "y": 16
+        },
+        "model": "SINGLE",
+        "dir": "Output",
+        "type": "NUMBER",
+        "cid": 1025,
+        "uuid": 10,
+        "x": 450,
+        "y": 478
+      },
+      [
+        {
+          "Label": "In A",
+          "position": {
+            "pos": "LEFT",
+            "order": 1,
+            "teta": 0.5235987755982988,
+            "count": 3,
+            "x": 31,
+            "y": 8
+          },
+          "model": "SINGLE",
+          "dir": "Input",
+          "type": "NUMBER",
+          "cid": 1,
+          "uuid": 15,
+          "x": 857,
+          "y": 528
+        }
+      ]
+    ],
+    [
+      {
+        "Label": "PinName.Module.Math.Function.Random.OutputPin.ID.1",
+        "position": {
+          "pos": "RIGHT",
+          "order": 1,
+          "teta": 3.9269908169872414,
+          "count": 2,
+          "x": 97,
+          "y": 16
+        },
+        "model": "SINGLE",
+        "dir": "Output",
+        "type": "NUMBER",
+        "cid": 1025,
+        "uuid": 12,
+        "x": 624,
+        "y": 950
+      },
+      [
+        {
+          "Label": "In B",
+          "position": {
+            "pos": "LEFT",
+            "order": 2,
+            "teta": 1.5707963267948966,
+            "count": 3,
+            "x": 0,
+            "y": 63
+          },
+          "model": "SINGLE",
+          "dir": "Input",
+          "type": "NUMBER",
+          "cid": 2,
+          "uuid": 11,
+          "x": 932,
+          "y": 906
+        }
+      ]
+    ],
+    [
+      {
+        "Label": "Trigger out",
+        "position": {
+          "pos": "RIGHT",
+          "order": 2,
+          "teta": 5.497787143782138,
+          "count": 2,
+          "x": 107,
+          "y": 107
+        },
+        "model": "SINGLE",
+        "dir": "Output",
+        "type": "TRIGGER",
+        "cid": 1224,
+        "uuid": 25,
+        "x": 909,
+        "y": 1503
+      },
+      [
+        {
+          "Label": "Trigger in",
+          "position": {
+            "pos": "LEFT",
+            "order": 2,
+            "teta": 2.356194490192345,
+            "count": 2,
+            "x": 16,
+            "y": 97
+          },
+          "model": "SINGLE",
+          "dir": "Input",
+          "type": "TRIGGER",
+          "cid": 100,
+          "uuid": 21,
+          "x": 1127,
+          "y": 1524
+        }
+      ]
+    ],
+    [
+      {
+        "Label": "Output",
+        "position": {
+          "pos": "RIGHT",
+          "order": 1,
+          "teta": 3.9269908169872414,
+          "count": 2,
+          "x": 107,
+          "y": 18
+        },
+        "model": "SINGLE",
+        "dir": "Output",
+        "type": "NUMBER",
+        "cid": 1025,
+        "uuid": 11,
+        "x": 932,
+        "y": 906
+      },
+      [
+        {
+          "Label": "PinName.Module.UI.ProgressBar.Circle.InputPin.ID.1",
+          "position": {
+            "pos": "LEFT",
+            "order": 1,
+            "teta": 0.39269908169872414,
+            "count": 4,
+            "x": 37,
+            "y": 4
+          },
+          "model": "SINGLE",
+          "dir": "Input",
+          "type": "NUMBER",
+          "cid": 1,
+          "uuid": 1,
+          "x": 1574,
+          "y": 929
+        }
+      ]
+    ],
+    [
+      {
+        "Label": "Trigger out",
+        "position": {
+          "pos": "RIGHT",
+          "order": 1,
+          "teta": 4.71238898038469,
+          "count": 1,
+          "x": 114,
+          "y": 56
+        },
+        "model": "SINGLE",
+        "dir": "Output",
+        "type": "TRIGGER",
+        "cid": 1224,
+        "uuid": 18,
+        "x": 170,
+        "y": 644
+      },
+      [
+        {
+          "Label": "Trigger in",
+          "position": {
+            "pos": "LEFT",
+            "order": 1,
+            "teta": 1.5707963267948966,
+            "count": 1,
+            "x": 0,
+            "y": 57
+          },
+          "model": "SINGLE",
+          "dir": "Input",
+          "type": "TRIGGER",
+          "cid": 100,
+          "uuid": 10,
+          "x": 450,
+          "y": 478
+        },
+        {
+          "Label": "Trigger in",
+          "position": {
+            "pos": "LEFT",
+            "order": 1,
+            "teta": 1.5707963267948966,
+            "count": 1,
+            "x": 0,
+            "y": 57
+          },
+          "model": "SINGLE",
+          "dir": "Input",
+          "type": "TRIGGER",
+          "cid": 100,
+          "uuid": 12,
+          "x": 624,
+          "y": 950
+        },
+        {
+          "Label": "Trigger in",
+          "position": {
+            "pos": "LEFT",
+            "order": 1,
+            "teta": 1.5707963267948966,
+            "count": 1,
+            "x": 0,
+            "y": 57
+          },
+          "model": "SINGLE",
+          "dir": "Input",
+          "type": "TRIGGER",
+          "cid": 100,
+          "uuid": 14,
+          "x": 640,
+          "y": 1264
+        }
+      ]
+    ],
+    [
+      {
+        "Label": "Value",
+        "position": {
+          "pos": "RIGHT",
+          "order": 1,
+          "teta": -1.5707963267948966,
+          "count": 0,
+          "x": 170,
+          "y": 0
+        },
+        "model": "SINGLE",
+        "dir": "Output",
+        "type": "STRING",
+        "cid": 1025,
+        "uuid": 7,
+        "x": 1287,
+        "y": 727
+      },
+      [
+        {
+          "Label": "PinName.Module.UI.ProgressBar.Circle.InputPin.ID.3",
+          "position": {
+            "pos": "LEFT",
+            "order": 3,
+            "teta": 1.9634954084936207,
+            "count": 4,
+            "x": 4,
+            "y": 84
+          },
+          "model": "SINGLE",
+          "dir": "Input",
+          "type": "STRING",
+          "cid": 3,
+          "uuid": 2,
+          "x": 1551,
+          "y": 685
+        }
+      ]
+    ],
+    [
+      {
+        "Label": "Trigger out",
+        "position": {
+          "pos": "RIGHT",
+          "order": 2,
+          "teta": 5.497787143782138,
+          "count": 2,
+          "x": 107,
+          "y": 107
+        },
+        "model": "SINGLE",
+        "dir": "Output",
+        "type": "TRIGGER",
+        "cid": 1224,
+        "uuid": 19,
+        "x": 973,
+        "y": 1167
+      },
+      [
+        {
+          "Label": "Trigger in",
+          "position": {
+            "pos": "LEFT",
+            "order": 4,
+            "teta": 2.748893571891069,
+            "count": 4,
+            "x": 37,
+            "y": 117
+          },
+          "model": "SINGLE",
+          "dir": "Input",
+          "type": "TRIGGER",
+          "cid": 100,
+          "uuid": 8,
+          "x": 1590,
+          "y": 1160
+        }
+      ]
+    ],
+    [
+      {
+        "Label": "Trigger out",
+        "position": {
+          "pos": "RIGHT",
+          "order": 2,
+          "teta": 5.497787143782138,
+          "count": 2,
+          "x": 107,
+          "y": 107
+        },
+        "model": "SINGLE",
+        "dir": "Output",
+        "type": "TRIGGER",
+        "cid": 1224,
+        "uuid": 11,
+        "x": 932,
+        "y": 906
+      },
+      [
+        {
+          "Label": "Trigger in",
+          "position": {
+            "pos": "LEFT",
+            "order": 4,
+            "teta": 2.748893571891069,
+            "count": 4,
+            "x": 37,
+            "y": 117
+          },
+          "model": "SINGLE",
+          "dir": "Input",
+          "type": "TRIGGER",
+          "cid": 100,
+          "uuid": 1,
+          "x": 1574,
+          "y": 929
+        }
+      ]
+    ],
+    [
+      {
+        "Label": "PinName.Module.Math.Function.Random.OutputPin.ID.1",
+        "position": {
+          "pos": "RIGHT",
+          "order": 1,
+          "teta": 3.9269908169872414,
+          "count": 2,
+          "x": 97,
+          "y": 16
+        },
+        "model": "SINGLE",
+        "dir": "Output",
+        "type": "NUMBER",
+        "cid": 1025,
+        "uuid": 14,
+        "x": 640,
+        "y": 1264
+      },
+      [
+        {
+          "Label": "In B",
+          "position": {
+            "pos": "LEFT",
+            "order": 2,
+            "teta": 1.5707963267948966,
+            "count": 3,
+            "x": 0,
+            "y": 63
+          },
+          "model": "SINGLE",
+          "dir": "Input",
+          "type": "NUMBER",
+          "cid": 2,
+          "uuid": 19,
+          "x": 973,
+          "y": 1167
+        }
+      ]
+    ],
+    [
+      {
+        "Label": "Value",
+        "position": {
+          "pos": "RIGHT",
+          "order": 1,
+          "teta": -1.5707963267948966,
+          "count": 0,
+          "x": 170,
+          "y": 0
+        },
+        "model": "SINGLE",
+        "dir": "Output",
+        "type": "STRING",
+        "cid": 1025,
+        "uuid": 4,
+        "x": 1288,
+        "y": 954
+      },
+      [
+        {
+          "Label": "PinName.Module.UI.ProgressBar.Circle.InputPin.ID.2",
+          "position": {
+            "pos": "LEFT",
+            "order": 2,
+            "teta": 1.1780972450961724,
+            "count": 4,
+            "x": 4,
+            "y": 37
+          },
+          "model": "SINGLE",
+          "dir": "Input",
+          "type": "STRING",
+          "cid": 2,
+          "uuid": 1,
+          "x": 1574,
+          "y": 929
+        }
+      ]
+    ],
+    [
+      {
+        "Label": "Output",
+        "position": {
+          "pos": "RIGHT",
+          "order": 1,
+          "teta": 3.9269908169872414,
+          "count": 2,
+          "x": 107,
+          "y": 18
+        },
+        "model": "SINGLE",
+        "dir": "Output",
+        "type": "NUMBER",
+        "cid": 1025,
+        "uuid": 19,
+        "x": 973,
+        "y": 1167
+      },
+      [
+        {
+          "Label": "PinName.Module.UI.ProgressBar.Circle.InputPin.ID.1",
+          "position": {
+            "pos": "LEFT",
+            "order": 1,
+            "teta": 0.39269908169872414,
+            "count": 4,
+            "x": 37,
+            "y": 4
+          },
+          "model": "SINGLE",
+          "dir": "Input",
+          "type": "NUMBER",
+          "cid": 1,
+          "uuid": 8,
+          "x": 1590,
+          "y": 1160
+        }
+      ]
+    ],
+    [
+      {
+        "Label": "Trigger out",
+        "position": {
+          "pos": "RIGHT",
+          "order": 1,
+          "teta": 4.71238898038469,
+          "count": 1,
+          "x": 114,
+          "y": 56
+        },
+        "model": "SINGLE",
+        "dir": "Output",
+        "type": "TRIGGER",
+        "cid": 1224,
+        "uuid": 23,
+        "x": 303,
+        "y": 1587
+      },
+      [
+        {
+          "Label": "Trigger in",
+          "position": {
+            "pos": "LEFT",
+            "order": 1,
+            "teta": 1.5707963267948966,
+            "count": 1,
+            "x": 0,
+            "y": 57
+          },
+          "model": "SINGLE",
+          "dir": "Input",
+          "type": "TRIGGER",
+          "cid": 100,
+          "uuid": 24,
+          "x": 641,
+          "y": 1571
+        }
+      ]
+    ],
+    [
+      {
+        "Label": "Trigger out",
+        "position": {
+          "pos": "RIGHT",
+          "order": 2,
+          "teta": 5.497787143782138,
+          "count": 2,
+          "x": 107,
+          "y": 107
+        },
+        "model": "SINGLE",
+        "dir": "Output",
+        "type": "TRIGGER",
+        "cid": 1224,
+        "uuid": 15,
+        "x": 857,
+        "y": 528
+      },
+      [
+        {
+          "Label": "Trigger in",
+          "position": {
+            "pos": "LEFT",
+            "order": 4,
+            "teta": 2.748893571891069,
+            "count": 4,
+            "x": 37,
+            "y": 117
+          },
+          "model": "SINGLE",
+          "dir": "Input",
+          "type": "TRIGGER",
+          "cid": 100,
+          "uuid": 2,
+          "x": 1551,
+          "y": 685
+        }
+      ]
+    ],
+    [
+      {
+        "Label": "Trigger out",
+        "position": {
+          "pos": "RIGHT",
+          "order": 2,
+          "teta": 5.497787143782138,
+          "count": 2,
+          "x": 97,
+          "y": 97
+        },
+        "model": "SINGLE",
+        "dir": "Output",
+        "type": "TRIGGER",
+        "cid": 1224,
+        "uuid": 14,
+        "x": 640,
+        "y": 1264
+      },
+      [
+        {
+          "Label": "Trigger in",
+          "position": {
+            "pos": "LEFT",
+            "order": 3,
+            "teta": 2.617993877991494,
+            "count": 3,
+            "x": 31,
+            "y": 117
+          },
+          "model": "SINGLE",
+          "dir": "Input",
+          "type": "TRIGGER",
+          "cid": 100,
+          "uuid": 19,
+          "x": 973,
+          "y": 1167
+        }
+      ]
+    ],
+    [
+      {
+        "Label": "Value",
+        "position": {
+          "pos": "RIGHT",
+          "order": 1,
+          "teta": -1.5707963267948966,
+          "count": 0,
+          "x": 170,
+          "y": 0
+        },
+        "model": "SINGLE",
+        "dir": "Output",
+        "type": "NUMBER",
+        "cid": 1025,
+        "uuid": 13,
+        "x": 642,
+        "y": 570
+      },
+      [
+        {
+          "Label": "In B",
+          "position": {
+            "pos": "LEFT",
+            "order": 2,
+            "teta": 1.5707963267948966,
+            "count": 3,
+            "x": 0,
+            "y": 63
+          },
+          "model": "SINGLE",
+          "dir": "Input",
+          "type": "NUMBER",
+          "cid": 2,
+          "uuid": 15,
+          "x": 857,
+          "y": 528
+        }
+      ]
+    ],
+    [
+      {
+        "Label": "Trigger out",
+        "position": {
+          "pos": "RIGHT",
+          "order": 2,
+          "teta": 5.497787143782138,
+          "count": 2,
+          "x": 97,
+          "y": 97
+        },
+        "model": "SINGLE",
+        "dir": "Output",
+        "type": "TRIGGER",
+        "cid": 1224,
+        "uuid": 24,
+        "x": 641,
+        "y": 1571
+      },
+      [
+        {
+          "Label": "Trigger in",
+          "position": {
+            "pos": "LEFT",
+            "order": 3,
+            "teta": 2.617993877991494,
+            "count": 3,
+            "x": 31,
+            "y": 117
+          },
+          "model": "SINGLE",
+          "dir": "Input",
+          "type": "TRIGGER",
+          "cid": 100,
+          "uuid": 25,
+          "x": 909,
+          "y": 1503
+        }
+      ]
+    ],
+    [
+      {
+        "Label": "Value",
+        "position": {
+          "pos": "RIGHT",
+          "order": 1,
+          "teta": -1.5707963267948966,
+          "count": 0,
+          "x": 170,
+          "y": 0
+        },
+        "model": "SINGLE",
+        "dir": "Output",
+        "type": "NUMBER",
+        "cid": 1025,
+        "uuid": 17,
+        "x": 617,
+        "y": 864
+      },
+      [
+        {
+          "Label": "In A",
+          "position": {
+            "pos": "LEFT",
+            "order": 1,
+            "teta": 0.5235987755982988,
+            "count": 3,
+            "x": 31,
+            "y": 8
+          },
+          "model": "SINGLE",
+          "dir": "Input",
+          "type": "NUMBER",
+          "cid": 1,
+          "uuid": 11,
+          "x": 932,
+          "y": 906
+        }
+      ]
+    ],
+    [
+      {
+        "Label": "Value",
+        "position": {
+          "pos": "RIGHT",
+          "order": 1,
+          "teta": -1.5707963267948966,
+          "count": 0,
+          "x": 170,
+          "y": 0
+        },
+        "model": "SINGLE",
+        "dir": "Output",
+        "type": "STRING",
+        "cid": 1025,
+        "uuid": 6,
+        "x": 1304,
+        "y": 1239
+      },
+      [
+        {
+          "Label": "PinName.Module.UI.ProgressBar.Circle.InputPin.ID.3",
+          "position": {
+            "pos": "LEFT",
+            "order": 3,
+            "teta": 1.9634954084936207,
+            "count": 4,
+            "x": 4,
+            "y": 84
+          },
+          "model": "SINGLE",
+          "dir": "Input",
+          "type": "STRING",
+          "cid": 3,
+          "uuid": 8,
+          "x": 1590,
+          "y": 1160
+        }
+      ]
+    ],
+    [
+      {
+        "Label": "Trigger out",
+        "position": {
+          "pos": "RIGHT",
+          "order": 2,
+          "teta": 5.497787143782138,
+          "count": 2,
+          "x": 97,
+          "y": 97
+        },
+        "model": "SINGLE",
+        "dir": "Output",
+        "type": "TRIGGER",
+        "cid": 1224,
+        "uuid": 10,
+        "x": 450,
+        "y": 478
+      },
+      [
+        {
+          "Label": "Trigger in",
+          "position": {
+            "pos": "LEFT",
+            "order": 3,
+            "teta": 2.617993877991494,
+            "count": 3,
+            "x": 31,
+            "y": 117
+          },
+          "model": "SINGLE",
+          "dir": "Input",
+          "type": "TRIGGER",
+          "cid": 100,
+          "uuid": 15,
+          "x": 857,
+          "y": 528
+        }
+      ]
+    ],
+    [
+      {
+        "Label": "Value",
+        "position": {
+          "pos": "RIGHT",
+          "order": 1,
+          "teta": -1.5707963267948966,
+          "count": 0,
+          "x": 170,
+          "y": 0
+        },
+        "model": "SINGLE",
+        "dir": "Output",
+        "type": "NUMBER",
+        "cid": 1025,
+        "uuid": 20,
+        "x": 644,
+        "y": 1124
+      },
+      [
+        {
+          "Label": "In A",
+          "position": {
+            "pos": "LEFT",
+            "order": 1,
+            "teta": 0.5235987755982988,
+            "count": 3,
+            "x": 31,
+            "y": 8
+          },
+          "model": "SINGLE",
+          "dir": "Input",
+          "type": "NUMBER",
+          "cid": 1,
+          "uuid": 19,
+          "x": 973,
+          "y": 1167
+        }
+      ]
+    ],
+    [
+      {
+        "Label": "PinName.Module.Math.Function.Random.OutputPin.ID.1",
+        "position": {
+          "pos": "RIGHT",
+          "order": 1,
+          "teta": 3.9269908169872414,
+          "count": 2,
+          "x": 97,
+          "y": 16
+        },
+        "model": "SINGLE",
+        "dir": "Output",
+        "type": "NUMBER",
+        "cid": 1025,
+        "uuid": 24,
+        "x": 641,
+        "y": 1571
+      },
+      [
+        {
+          "Label": "In B",
+          "position": {
+            "pos": "LEFT",
+            "order": 2,
+            "teta": 1.5707963267948966,
+            "count": 3,
+            "x": 0,
+            "y": 63
+          },
+          "model": "SINGLE",
+          "dir": "Input",
+          "type": "NUMBER",
+          "cid": 2,
+          "uuid": 25,
+          "x": 909,
+          "y": 1503
+        }
+      ]
+    ],
+    [
+      {
+        "Label": "Value",
+        "position": {
+          "pos": "RIGHT",
+          "order": 1,
+          "teta": -1.5707963267948966,
+          "count": 0,
+          "x": 170,
+          "y": 0
+        },
+        "model": "SINGLE",
+        "dir": "Output",
+        "type": "STRING",
+        "cid": 1025,
+        "uuid": 9,
+        "x": 1318,
+        "y": 1201
+      },
+      [
+        {
+          "Label": "PinName.Module.UI.ProgressBar.Circle.InputPin.ID.2",
+          "position": {
+            "pos": "LEFT",
+            "order": 2,
+            "teta": 1.1780972450961724,
+            "count": 4,
+            "x": 4,
+            "y": 37
+          },
+          "model": "SINGLE",
+          "dir": "Input",
+          "type": "STRING",
+          "cid": 2,
+          "uuid": 8,
+          "x": 1590,
+          "y": 1160
+        }
+      ]
+    ],
+    [
+      {
+        "Label": "Value",
+        "position": {
+          "pos": "RIGHT",
+          "order": 1,
+          "teta": -1.5707963267948966,
+          "count": 0,
+          "x": 170,
+          "y": 0
+        },
+        "model": "SINGLE",
+        "dir": "Output",
+        "type": "STRING",
+        "cid": 1025,
+        "uuid": 3,
+        "x": 1281,
+        "y": 669
+      },
+      [
+        {
+          "Label": "PinName.Module.UI.ProgressBar.Circle.InputPin.ID.2",
+          "position": {
+            "pos": "LEFT",
+            "order": 2,
+            "teta": 1.1780972450961724,
+            "count": 4,
+            "x": 4,
+            "y": 37
+          },
+          "model": "SINGLE",
+          "dir": "Input",
+          "type": "STRING",
+          "cid": 2,
+          "uuid": 2,
+          "x": 1551,
+          "y": 685
+        }
+      ]
+    ]
+  ],
+  "meta": {
+    "Encrypt": false,
+    "PID": "PID",
+    "Title": "",
+    "VID": "NIO",
+    "ZIP": false,
+    "sheet-type": "mother-layout",
+    "sheet-height": 0,
+    "sheet-width": 0,
+    "VER": 1.0
+  },
+  "page": {
+    "barriers": [],
+    "frames_properties": [
+      {
+        "name": "Name",
+        "blueprint": {
+          "bottom": 2278,
+          "left": 1822,
+          "right": 3022,
+          "top": 678
+        },
+        "position": {
+          "bottom": 2278,
+          "left": 598,
+          "right": 1798,
+          "top": 678
+        },
+        "sections": [
+          {
+            "param": {
+              "fid": -3,
+              "sid": -2,
+              "id": -1,
+              "baselineToBaseline": -1,
+              "bottomMargin": 0,
+              "bottomToBottom": 0,
+              "bottomToTop": -1,
+              "constrainedHeight": false,
+              "constrainedWidth": false,
+              "x": -1,
+              "y": -1,
+              "endToEnd": 0,
+              "endToStart": -1,
+              "goneBottomMargin": -1,
+              "goneEndMargin": -1,
+              "goneLeftMargin": -1,
+              "goneRightMargin": -1,
+              "goneStartMargin": -1,
+              "goneTopMargin": -1,
+              "gravity": 0,
+              "guideBegin": -1,
+              "guideEnd": -1,
+              "guidePercent": -1.0,
+              "h": 0,
+              "helped": false,
+              "horizontalBias": 0.5,
+              "horizontalChainStyle": 0,
+              "horizontalWeight": 0.0,
+              "leftMargin": 0,
+              "leftToLeft": -1,
+              "leftToRight": -1,
+              "matchConstraintDefaultHeight": 0,
+              "matchConstraintDefaultWidth": 0,
+              "matchConstraintMaxHeight": 0,
+              "matchConstraintMaxWidth": 0,
+              "matchConstraintMinHeight": 0,
+              "matchConstraintMinWidth": 0,
+              "matchConstraintPercentHeight": 1.0,
+              "matchConstraintPercentWidth": 1.0,
+              "orientation": -1,
+              "rightMargin": 0,
+              "rightToLeft": -1,
+              "rightToRight": -1,
+              "startToEnd": -1,
+              "startToStart": 0,
+              "topMargin": 0,
+              "topToBottom": -1,
+              "topToTop": 0,
+              "verticalBias": 0.5,
+              "verticalChainStyle": 0,
+              "verticalWeight": 0.0,
+              "weight": 0.0,
+              "w": 0
+            },
+            "id": 1,
+            "show-type": 0,
+            "view_id": 2131297415,
+            "type": 1
+          }
+        ],
+        "color": -16121,
+        "id": 0,
+        "link-frame-id": -1,
+        "link-section-id": -1,
+        "run-mode": 0,
+        "type": 2
+      }
+    ],
+    "guidelines": [
+      {
+        "param": {
+          "fid": 0,
+          "sid": 1,
+          "id": 684,
+          "baselineToBaseline": -1,
+          "bottomMargin": 0,
+          "bottomToBottom": -1,
+          "bottomToTop": -1,
+          "constrainedHeight": false,
+          "constrainedWidth": false,
+          "x": -1,
+          "y": -1,
+          "endToEnd": -1,
+          "endToStart": -1,
+          "goneBottomMargin": -1,
+          "goneEndMargin": -1,
+          "goneLeftMargin": -1,
+          "goneRightMargin": -1,
+          "goneStartMargin": -1,
+          "goneTopMargin": -1,
+          "gravity": 0,
+          "guideBegin": -1,
+          "guideEnd": -1,
+          "guidePercent": 0.43,
+          "h": -2,
+          "helped": false,
+          "horizontalBias": 0.5,
+          "horizontalChainStyle": 0,
+          "horizontalWeight": 0.0,
+          "leftMargin": 0,
+          "leftToLeft": -1,
+          "leftToRight": -1,
+          "matchConstraintDefaultHeight": 0,
+          "matchConstraintDefaultWidth": 0,
+          "matchConstraintMaxHeight": 0,
+          "matchConstraintMaxWidth": 0,
+          "matchConstraintMinHeight": 0,
+          "matchConstraintMinWidth": 0,
+          "matchConstraintPercentHeight": 1.0,
+          "matchConstraintPercentWidth": 1.0,
+          "orientation": 0,
+          "rightMargin": 0,
+          "rightToLeft": -1,
+          "rightToRight": -1,
+          "startToEnd": -1,
+          "startToStart": -1,
+          "topMargin": 0,
+          "topToBottom": -1,
+          "topToTop": -1,
+          "verticalBias": 0.5,
+          "verticalChainStyle": 0,
+          "verticalWeight": 0.0,
+          "weight": 0.0,
+          "w": -2
+        }
+      },
+      {
+        "param": {
+          "fid": 0,
+          "sid": 1,
+          "id": 698,
+          "baselineToBaseline": -1,
+          "bottomMargin": 0,
+          "bottomToBottom": -1,
+          "bottomToTop": -1,
+          "constrainedHeight": false,
+          "constrainedWidth": false,
+          "x": -1,
+          "y": -1,
+          "endToEnd": -1,
+          "endToStart": -1,
+          "goneBottomMargin": -1,
+          "goneEndMargin": -1,
+          "goneLeftMargin": -1,
+          "goneRightMargin": -1,
+          "goneStartMargin": -1,
+          "goneTopMargin": -1,
+          "gravity": 0,
+          "guideBegin": -1,
+          "guideEnd": -1,
+          "guidePercent": 0.17,
+          "h": -2,
+          "helped": false,
+          "horizontalBias": 0.5,
+          "horizontalChainStyle": 0,
+          "horizontalWeight": 0.0,
+          "leftMargin": 0,
+          "leftToLeft": -1,
+          "leftToRight": -1,
+          "matchConstraintDefaultHeight": 0,
+          "matchConstraintDefaultWidth": 0,
+          "matchConstraintMaxHeight": 0,
+          "matchConstraintMaxWidth": 0,
+          "matchConstraintMinHeight": 0,
+          "matchConstraintMinWidth": 0,
+          "matchConstraintPercentHeight": 1.0,
+          "matchConstraintPercentWidth": 1.0,
+          "orientation": 1,
+          "rightMargin": 0,
+          "rightToLeft": -1,
+          "rightToRight": -1,
+          "startToEnd": -1,
+          "startToStart": -1,
+          "topMargin": 0,
+          "topToBottom": -1,
+          "topToTop": -1,
+          "verticalBias": 0.5,
+          "verticalChainStyle": 0,
+          "verticalWeight": 0.0,
+          "weight": 0.0,
+          "w": -2
+        }
+      },
+      {
+        "param": {
+          "fid": 0,
+          "sid": 1,
+          "id": 119,
+          "baselineToBaseline": -1,
+          "bottomMargin": 0,
+          "bottomToBottom": -1,
+          "bottomToTop": -1,
+          "constrainedHeight": false,
+          "constrainedWidth": false,
+          "x": -1,
+          "y": -1,
+          "endToEnd": -1,
+          "endToStart": -1,
+          "goneBottomMargin": -1,
+          "goneEndMargin": -1,
+          "goneLeftMargin": -1,
+          "goneRightMargin": -1,
+          "goneStartMargin": -1,
+          "goneTopMargin": -1,
+          "gravity": 0,
+          "guideBegin": -1,
+          "guideEnd": -1,
+          "guidePercent": 0.5,
+          "h": -2,
+          "helped": false,
+          "horizontalBias": 0.5,
+          "horizontalChainStyle": 0,
+          "horizontalWeight": 0.0,
+          "leftMargin": 0,
+          "leftToLeft": -1,
+          "leftToRight": -1,
+          "matchConstraintDefaultHeight": 0,
+          "matchConstraintDefaultWidth": 0,
+          "matchConstraintMaxHeight": 0,
+          "matchConstraintMaxWidth": 0,
+          "matchConstraintMinHeight": 0,
+          "matchConstraintMinWidth": 0,
+          "matchConstraintPercentHeight": 1.0,
+          "matchConstraintPercentWidth": 1.0,
+          "orientation": 1,
+          "rightMargin": 0,
+          "rightToLeft": -1,
+          "rightToRight": -1,
+          "startToEnd": -1,
+          "startToStart": -1,
+          "topMargin": 0,
+          "topToBottom": -1,
+          "topToTop": -1,
+          "verticalBias": 0.5,
+          "verticalChainStyle": 0,
+          "verticalWeight": 0.0,
+          "weight": 0.0,
+          "w": -2
+        }
+      }
+    ],
+    "mother_properties": {
+      "height": 2828,
+      "width": 3572
+    }
+  }
+}
